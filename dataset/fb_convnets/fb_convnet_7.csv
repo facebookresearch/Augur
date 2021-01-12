@@ -1,0 +1,2 @@
+kx,ifmx,ifmy,zin,zout,stridex,pad_x,group,latency,energy
+3,640,360,32,12,1,0,1,1035628,203430100.16000003
